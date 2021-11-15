@@ -1,4 +1,4 @@
-<img width="200px" src="ionic.png">
+<img width="240px" src="ionic.png">
 
 # Índice de aplicaciones de Ionic - Curso 2021 / 2022
 
