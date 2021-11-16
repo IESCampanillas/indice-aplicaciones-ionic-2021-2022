@@ -6,9 +6,9 @@
 
 ## Índice a las aplicaciones
 
-[López Pérez, Cruz](#)
+* López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp)
 
-[Apellidos, Nombre](https://github.com/mcruzlp/ClinicaNiloIonicApp)
+[Apellidos, Nombre](#)
 
 
 
