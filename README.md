@@ -6,9 +6,12 @@
 
 ## Índice a las aplicaciones
 
-* López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp)
-
 [Apellidos, Nombre](#)
+
+* López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp)
+* Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
+* Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
+
 
 
 
