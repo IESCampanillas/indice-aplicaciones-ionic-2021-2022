@@ -6,7 +6,7 @@
 
 ## Índice a las aplicaciones
 
-[Apellidos, Nombre](#)
+* [Apellidos, Nombre - Título de la aplicación](#)
 
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/task4home)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
