@@ -13,7 +13,7 @@
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/task4home)
-
+* Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 
 
 
