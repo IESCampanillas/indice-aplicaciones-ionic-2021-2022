@@ -10,7 +10,7 @@
 
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
-* García Gómez, Sergio - [Pokepedia]
+* García Gómez, Sergio - 
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
