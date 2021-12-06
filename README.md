@@ -8,7 +8,7 @@
 
 * [Apellidos, Nombre - Título de la aplicación](#)
 
-* Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia)
+* Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
 * García Gómez, Sergio - 
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
