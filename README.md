@@ -8,6 +8,7 @@
 
 * [Apellidos, Nombre - Título de la aplicación](#)
 
+* Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
 * García Gómez, Sergio - 
@@ -18,6 +19,7 @@
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
 * De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
+
 
 
 
