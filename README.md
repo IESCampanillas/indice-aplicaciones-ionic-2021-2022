@@ -17,6 +17,7 @@
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
+* De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
 
 
 
