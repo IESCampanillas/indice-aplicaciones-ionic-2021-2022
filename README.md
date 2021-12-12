@@ -11,6 +11,7 @@
 * Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
+* Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
 * García Gómez, Sergio - 
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project)
