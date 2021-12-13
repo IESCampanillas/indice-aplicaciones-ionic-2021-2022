@@ -12,6 +12,7 @@
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
 * De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
+* Estrada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
 * García Gómez, Sergio - 
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
