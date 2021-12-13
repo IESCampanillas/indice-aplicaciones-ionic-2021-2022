@@ -10,17 +10,16 @@
 
 * Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
+* De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
 * García Gómez, Sergio - 
+* Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project) - [Video](https://youtu.be/Hms9DmWJBOg)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
-* Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
-* De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
-
 
 
 
