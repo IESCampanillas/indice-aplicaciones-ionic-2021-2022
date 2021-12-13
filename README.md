@@ -14,7 +14,7 @@
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
 * García Gómez, Sergio - 
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
-* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project)
+* Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project) - [Video](https://youtu.be/Hms9DmWJBOg)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
