@@ -21,7 +21,7 @@
 * Morales Aragón, Marcos - [N0torius](https://github.com/MarcosMoralesAragon/N0torius)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
-* Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
+* Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend)
 
 
 
