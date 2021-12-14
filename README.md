@@ -18,6 +18,7 @@
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project) - [Video](https://youtu.be/Hms9DmWJBOg)
+* Morales Aragón, Marcos - [N0torius](https://github.com/MarcosMoralesAragon/N0torius)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/feseva/invisibleFriendApp)
