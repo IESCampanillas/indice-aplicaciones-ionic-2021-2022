@@ -14,7 +14,7 @@
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaApp)
 * Estrada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty)
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
-* García Gómez, Sergio - 
+* García Gómez, Sergio - [Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-ionic.git)
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project) - [Video](https://youtu.be/Hms9DmWJBOg)
