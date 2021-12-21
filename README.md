@@ -6,8 +6,6 @@
 
 ## Índice a las aplicaciones
 
-* [Apellidos, Nombre - Título de la aplicación](#)
-
 * Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
 * De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
