@@ -31,7 +31,7 @@ En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una
 
 ### 🗓️ Plazos de entrega
 
-
+La presentación de las aplicaciones tendrá lugar el **martes día 15 de marzo** en el horario de clase.
 
 ### :iphone: Índice a las aplicaciones
 
