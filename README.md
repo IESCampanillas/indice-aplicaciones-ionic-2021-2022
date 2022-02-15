@@ -6,7 +6,7 @@
 
 [Enunciado con los requisitos de la aplicación](trabajo_ionic_v6.pdf)
 
-### Índice a las aplicaciones
+### :iphone: Índice a las aplicaciones
 
 * Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
@@ -25,9 +25,15 @@
 
 ## 2<sup>o</sup> TRIMESTRE
 
-[Enunciado con los requisitos de la aplicación]()
+En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una aplicación realizada en Ionic que cumpla todos los requisitos que se pedían para la del primer trimestre además de los siguientes:
+* Almacenamiento de datos en Firebase
+* Autenticación de usuarios con Firebase
 
-### Índice a las aplicaciones
+### 🗓️ Plazos de entrega
+
+
+
+### :iphone: Índice a las aplicaciones
 
 * Apellidos, Nombre - [Título de la aplicación]()
 
