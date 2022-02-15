@@ -31,7 +31,9 @@ En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una
 
 ### 🗓️ Plazos de entrega
 
-La presentación de las aplicaciones tendrá lugar el **martes día 15 de marzo** en el horario de clase.
+* **Jueves 10 de marzo a las 23:59**: Límite para las actualizaciones del repositorio de la aplicación. 
+* **Viernes 11 de marzo**: Presentación conjunta con la aplicación de Angular (asignatura HLC) por estricto orden de lista.
+* **Martes 15 de marzo**: Presentación para los alumnos que no cursan HLC.
 
 ### :iphone: Índice a las aplicaciones
 
