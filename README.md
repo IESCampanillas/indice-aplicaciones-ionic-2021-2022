@@ -2,9 +2,11 @@
 
 # Índice de aplicaciones de Ionic - Curso 2021 / 2022
 
+## 1<sup>er</sup> TRIMESTRE
+
 [Enunciado con los requisitos de la aplicación](trabajo_ionic_v6.pdf)
 
-## Índice a las aplicaciones
+### Índice a las aplicaciones
 
 * Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Buendía López, Jairo - [Task4Home](https://github.com/jairobuendia/Task4Home)
@@ -20,6 +22,14 @@
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Salmerón Robles, Gonzalo José - [Elmo](https://github.com/gonzalosalmeron/elmoApp)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend)
+
+## 2<sup>o</sup> TRIMESTRE
+
+[Enunciado con los requisitos de la aplicación]()
+
+### Índice a las aplicaciones
+
+* Apellidos, Nombre - [Título de la aplicación]()
 
 
 
