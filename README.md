@@ -38,6 +38,7 @@ En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una
 ### :iphone: Índice a las aplicaciones
 
 * Apellidos, Nombre - [Título de la aplicación]()
+* Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 
 
 
