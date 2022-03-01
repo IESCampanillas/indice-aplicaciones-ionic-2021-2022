@@ -13,7 +13,7 @@
 * De Abrisqueta Rangel, Ander - [coordinator-harena-app](https://github.com/AnderDeAbrisqueta/coordinator-harena-app)
 * Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaionic)
 * Estrada Cobo, Jose Manuel - [Newsuty](https://github.com/JoseEstradaC/Newsuty)
-* Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic)
+* Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic-v2)
 * García Gómez, Sergio - [Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-ionic.git)
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
