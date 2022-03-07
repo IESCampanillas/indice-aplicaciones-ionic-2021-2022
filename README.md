@@ -39,7 +39,7 @@ En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una
 ### :iphone: Índice a las aplicaciones
 
 * Apellidos, Nombre - [Título de la aplicación]()
-* Egea Hermoso, Adrián - [Filmoteca](https://github.com/AdrianEgeaHermoso/filmotecaionic)
+* Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Ionic)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
 * Sevilla Valderrama, Fernando Iván - [Invisible Friend](https://github.com/FESEVA/ionic-invisibleFriend)
