@@ -16,6 +16,7 @@
 * Fabián El Belaizi, Daniel - [Colección de animales](https://github.com/Danny-06/Coleccion-de-animales-domesticos-ionic-v2)
 * García Gómez, Sergio - [Pokepedia](https://github.com/SergioGarciaGomez/pokepedia-ionic.git)
 * Gutiérrez Ramírez,Jesús María - [Food List](https://github.com/Jesus-GR/AplicacionIonic)
+* López Lozano, Santos - [Animeflix](https://github.com/SantosLopezLozano/AnimeFlix)
 * López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/ClinicaNiloIonicApp.git)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/ionic-project) - [Video](https://youtu.be/Hms9DmWJBOg)
 * Morales Aragón, Marcos - [N0torius](https://github.com/MarcosMoralesAragon/N0torius)
