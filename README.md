@@ -39,6 +39,7 @@ En el segundo trimestre, para los alumnos no duales, es obligatorio entregar una
 ### :iphone: Índice a las aplicaciones
 
 * Apellidos, Nombre - [Título de la aplicación]()
+* Alvarado Díaz, Irene - [Cuida a mi mascota](https://github.com/IreneAlvaradoDiaz/cuida-a-mi-mascota)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome_Ionic)
 * Millán Rebollo, Noel - [Femore](https://github.com/NoelMillan/femore)
 * Rodriguez - Barbero Verdera, David [Matters](https://github.com/Davidrbv/Matters)
